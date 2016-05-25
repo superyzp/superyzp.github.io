@@ -23,14 +23,21 @@
 
     <section class="main-content">
 
-      <div id="home">
-  <h1>Blog Posts</h1>
-  <ul class="posts">
-    
-      <li><span>18 Nov 2014</span> &raquo; <a href="/2014/11/18/rails-routing-source-code.html">Rails 路由系统源码探索</a></li>
-    
-  </ul>
-</div>
+      You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
+To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
+
+Jekyll also offers powerful support for code snippets:
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+
+Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
+
+[jekyll-gh]: https://github.com/mojombo/jekyll
+[jekyll]:    http://jekyllrb.com
 
       <footer class="site-footer">
   <span class="site-footer-owner"><a href="">Superyzp's Blog</a> is maintained by <a href="">Superyzp</a>.</span>
